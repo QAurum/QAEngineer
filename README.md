@@ -1,5 +1,5 @@
 # Alisa Mordvinova
-I'm a QA Engineer.
+I'm a QA Engineer. This is information about me.
 
 ## My experience
 - [CleverPumpkin](https://career.habr.com/companies/cleverpumpkin) - Middle QA / Oct. 2022 — Nov. 2022
