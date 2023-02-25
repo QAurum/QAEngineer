@@ -37,6 +37,7 @@ I'm a QA Engineer.
 
 ## Worked with
 
+<p dir=auto>
 <img src="https://camo.githubusercontent.com/e33120be981423c3a67ea0fd71e05da413f486246543e882e4f6a89882c3c59c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e266c6f676f436f6c6f723d663736393335" alt="Header" data-canonical-src="https://img.shields.io/badge/Postman-090909?style=for-the-badge&amp;logo=postman&amp;logoColor=f76935" style="max-width: 100%;">
 <img src="https://camo.githubusercontent.com/ed679b76e165374336717ea864f8cf58f4e364d355c361c4ae0537310569003e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a656e6b696e732d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d6a656e6b696e73266c6f676f436f6c6f723d663766376637" alt="Header" data-canonical-src="https://img.shields.io/badge/Jenkins-090909?style=for-the-badge&amp;logo=jenkins&amp;logoColor=f7f7f7" style="max-width: 100%;">
 <img src="https://camo.githubusercontent.com/3024b0d7942f089d07a731feca3793a2587e77a00bead240db40ab00d63660e0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d303036313861" alt="Header" data-canonical-src="https://img.shields.io/badge/MySQL-090909?style=for-the-badge&amp;logo=mysql&amp;logoColor=00618a" style="max-width: 100%;">
