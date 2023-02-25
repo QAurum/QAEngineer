@@ -26,6 +26,7 @@ I'm a QA Engineer.
 - Skillbox / Курс "Профессия: Тестировщик" / Aug. 2020 — Dec. 2020
 
 ## My tools
+<p dir=auto>
 <img src="https://camo.githubusercontent.com/d599a4b42fea4707c2fae2a55b5d48acbf702126d5a99cff6802b015f3bb3177/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6972612d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d6a697261266c6f676f436f6c6f723d313336626531" alt="Header" data-canonical-src="https://img.shields.io/badge/Jira-090909?style=for-the-badge&amp;logo=jira&amp;logoColor=136be1" style="max-width: 100%;">
 <img src="https://camo.githubusercontent.com/e4c0cc232e2135f37b682c4387ed49b0f7011150f0a93a84b57d3bcc485de75a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537761676765722d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d73776167676572266c6f676f436f6c6f723d376564653262" alt="Header" data-canonical-src="https://img.shields.io/badge/Swagger-090909?style=for-the-badge&amp;logo=swagger&amp;logoColor=7ede2b" style="max-width: 100%;">
 <img src="https://camo.githubusercontent.com/43dec30eb269fb83f3ac6cc46ee9ac1e05f7454cd2b6026795d928e7d4469bb7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d376435666136" alt="Header" data-canonical-src="https://img.shields.io/badge/Figma-090909?style=for-the-badge&amp;logo=figma&amp;logoColor=7d5fa6" style="max-width: 100%;">
