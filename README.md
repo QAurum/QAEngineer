@@ -48,9 +48,8 @@ I'm a QA Engineer.
   
 <p div=auto>
 <a href="https://career.habr.com/hi_neo_autumn"><img src="https://pbs.twimg.com/profile_images/1205171034938335232/Hor30ilG_400x400.jpg" width="50" 
-   height="50" alt="Хабр Карьера"></a>
-
+   height="50" alt="Хабр Карьера"></a></p>
+   
+<p div=auto>
 <a href="https://vk.com/qa.urum_fox"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/200px-VK_Compact_Logo_%282021-present%29.svg.png" width="50" 
-   height="50" alt="VK"></a>
-
-</p>
+   height="50" alt="VK"></a></p>
