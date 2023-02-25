@@ -42,14 +42,13 @@ I'm a QA Engineer.
 <img src="https://camo.githubusercontent.com/ed679b76e165374336717ea864f8cf58f4e364d355c361c4ae0537310569003e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a656e6b696e732d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d6a656e6b696e73266c6f676f436f6c6f723d663766376637" alt="Header" data-canonical-src="https://img.shields.io/badge/Jenkins-090909?style=for-the-badge&amp;logo=jenkins&amp;logoColor=f7f7f7" style="max-width: 100%;">
 <img src="https://camo.githubusercontent.com/3024b0d7942f089d07a731feca3793a2587e77a00bead240db40ab00d63660e0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d303036313861" alt="Header" data-canonical-src="https://img.shields.io/badge/MySQL-090909?style=for-the-badge&amp;logo=mysql&amp;logoColor=00618a" style="max-width: 100%;">
 <img src="https://camo.githubusercontent.com/4b30119404617326ea1e1bc429da088f2d0acb4e49e11f87972e2487efb51dbe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446576546f6f6c732d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c656368726f6d65266c6f676f436f6c6f723d323637346632" alt="Header" data-canonical-src="https://img.shields.io/badge/DevTools-090909?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=2674f2" style="max-width: 100%;">
-</p>
 
 ## Follow Me
   
 <p div=auto>
 <a href="https://career.habr.com/hi_neo_autumn"><img src="https://pbs.twimg.com/profile_images/1205171034938335232/Hor30ilG_400x400.jpg" width="50" 
-   height="50" alt="Хабр Карьера"></a></p>
+   height="50" alt="Хабр Карьера"></a>
    
 <p div=auto>
 <a href="https://vk.com/qa.urum_fox"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/200px-VK_Compact_Logo_%282021-present%29.svg.png" width="50" 
-   height="50" alt="VK"></a></p>
+   height="50" alt="VK"></a>
