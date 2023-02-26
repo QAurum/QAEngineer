@@ -15,12 +15,19 @@ You can view my resume at [the link in PDF](https://goo.su/SV1e) or read it belo
 
 <!--My education-->
 ## My education
-- [Siberian State University of Water Transport](https://career.habr.com/universities/6356)
-- Faculty of Electromechanics / Mechanical Engineer / Bachelor
-- 2013 — 2017
+### [Siberian State University of Water Transport](https://career.habr.com/universities/6356) (2013 — 2017)
+Faculty of Electromechanics / Mechanical Engineer / Bachelor
+
+<!--Documentation testing-->
+## Documentation testing
+- [Task example](https://github.com/QAurum/Documentation-testing/blob/main/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%BD%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8.png?raw=true)
+
+- [Example of a bug report](https://github.com/QAurum/Documentation-testing/blob/main/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B1%D0%B0%D0%B3-%D1%80%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D0%B0.png?raw=true)
 
 <!--Additional education-->
 ## Additional education
+### [Archive of certificates and diplomas](https://github.com/QAurum/Certificates-and-diplomas)
+
 - X5 Group / Online-meetup "X5 QA Meetup #4" / Feb. 2023 [Диплом участника](https://hsto.org/getpro/moikrug/uploads/additional_education/000/108/754/diploma/f0c12d907de47538036d2208ea38ddeb.png)
 - Stepik / Курс: "Веб-разработка для начинающих: HTML и CSS" / Sept. 2022 - Feb. 2023 [Сертификат](https://drive.google.com/file/d/1uyxJ1MhY0gOLv9JiWoTKw7hd6-oT6YfO/view)
 - Stepik / Курс "Тестирование ПО: подготовка к сертификации ISTQB Foundation" / July 2022 [Сертификат](https://drive.google.com/file/d/1IS3qUaW3Zk-k2JWcWi_s7g5W3-z6E9hS/view)
@@ -51,8 +58,6 @@ You can view my resume at [the link in PDF](https://goo.su/SV1e) or read it belo
 
 <!--Follow Me -->
 ## Follow Me 
-<!-- [![image](https://user-images.githubusercontent.com/87349480/221404691-e68c49ad-0085-4e40-8800-c9757aa64c70.png width="50" height="50")](https://career.habr.com/hi_neo_autumn) -->
-
 <a href="https://career.habr.com/hi_neo_autumn"><img src="https://cdn.tlgrm.app/channels/10/28/1028916447/avatar640.jpg" width="50" 
    height="50" alt="Хабр Карьера"></a>
 <a href="https://vk.com/qa.urum_fox"><img src="https://avatars.mds.yandex.net/i?id=0ae6e01d31fc3cf0a1ed947aa90be60a29569b7c-5221012-images-thumbs&n=13" width="50" 
@@ -64,3 +69,4 @@ You can view my resume at [the link in PDF](https://goo.su/SV1e) or read it belo
     <a href="https://stepik.org/users/287500213"><img src="https://cdn-irec.r-99.com/sites/default/files/imagecache/300o/product-images/1803601/1cF6h6touT81MdpAN81Zg.jpg" width="50" 
    height="50" alt="Stepik"></a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QAurum&show_icons=true&theme=radical)
