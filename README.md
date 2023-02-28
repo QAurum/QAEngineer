@@ -16,14 +16,14 @@
 
 <!--My experience-->
 ## My experience
-### [CleverPumpkin](https://career.habr.com/companies/cleverpumpkin) - Middle QA
-**Oct. 2022 — Nov. 2022**
+### [CleverPumpkin](https://career.habr.com/companies/cleverpumpkin)
+**Oct. 2022 — Nov. 2022** - Manager QA
 - Тестирование мобильных приложений, создание и ведение тестовой документации, сбор логов
 - Функциональное, исследовательское, регрессионное тестирование, а также тестирование верстки, логики, и функционала продукта
 - **Инструменты:** Jira, Charles, TeamCity, Testrail, Figma, Android Studio
 
-### [PunicApp](https://career.habr.com/companies/punicapp) - Middle/Leading QA
-**July 2021 — Aug. 2022**
+### [PunicApp](https://career.habr.com/companies/punicapp)
+**July 2021 — Aug. 2022** - Middle/Leading QA Engineer
 - Тестирование мобильных приложений в комплексных проектах
 - Создание и ведение тестовой документации, включая заведение баг-репортов, создание ТЗ на разработку и руководство пользователя, создание задач на разработку программистам.
 - Функциональное, исследовательское, регрессионное тестирование, а также тестирование верстки, логики, и функционала продукта, начиная с методов, до первых сборок.
@@ -33,20 +33,20 @@
 - Курировала онбооардинг новых членов команды на протяжении ИС (3 месяца)
 - **Инструменты:** YouTrack, Charles, Swagger, Testrail, Postman, AppMetric, FireBase, DBeaver, GraphQL, Figma, Android Studio
 
-### [Friday`s Games](https://career.habr.com/companies/fridaysgames) - Junior QA
-**Apr. 2021 — June 2021**
+### [Friday`s Games](https://career.habr.com/companies/fridaysgames)
+**Apr. 2021 — June 2021** - Junior QA Engineer
 - Разработка и актуализация тест кейсов, заведение баг-репортов, подготовка тестовых стендов
 - Выполнение функционального, регрессионного и исследовательского тестирования на мобильных и десктоп-платформах
 - Исследовательское, регрессионное, функциональное тестирование, тестирование юнитов и систем
 - **Инструменты:** Jira, Confluence, Jenkins, внутреннее ПО компании
 
-### [ООО ОТР 2000](https://career.habr.com/companies/otr) - Junior QA
-**Mar. 2021 — Mar. 2021**
+### [ООО ОТР 2000](https://career.habr.com/companies/otr)
+**Mar. 2021 — Mar. 2021** - Junior QA Engineer
 - Разработка и актуализация тест кейсов, заведение баг-репортов, подготовка тестовых данных
 - Выполнение функционального, регрессионного тестирования
 
-### [IQSoft](https://career.habr.com/companies/iqsoft) - Junior QA
-**Dec. 2020 — Feb. 2021**
+### [IQSoft](https://career.habr.com/companies/iqsoft)
+**Dec. 2020 — Feb. 2021** - Junior QA Engineer
 - Разработка и актуализация тест-кейсов, заведение баг-репортов
 - Выполнение функционального, регрессионного и исследовательского тестирования
 - Постановка задач разработчикам по результатам тестирования
