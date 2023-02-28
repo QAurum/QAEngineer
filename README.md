@@ -55,6 +55,7 @@ Faculty of Electromechanics / Mechanical Engineer / Bachelor
 ![Header](https://img.shields.io/badge/Jenkins-090909?style=for-the-badge&amp;logo=jenkins&amp;logoColor=f7f7f7)
 ![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&amp;logo=mysql&amp;logoColor=00618a)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=2674f2)
+![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
 
 <!--Follow Me -->
 ## Follow Me 
@@ -68,5 +69,3 @@ Faculty of Electromechanics / Mechanical Engineer / Bachelor
    height="50" alt="hh.ru"></a>
     <a href="https://stepik.org/users/287500213"><img src="https://cdn-irec.r-99.com/sites/default/files/imagecache/300o/product-images/1803601/1cF6h6touT81MdpAN81Zg.jpg" width="50" 
    height="50" alt="Stepik"></a>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QAurum&show_icons=true&theme=radical)
