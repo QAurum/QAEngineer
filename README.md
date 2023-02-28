@@ -96,6 +96,6 @@ Faculty of Electromechanics / Mechanical Engineer / Bachelor
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=2674f2)
 ![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
 
-<!--Add-->
-### Дополнительно
+<!--Additionally-->
+### Additionally
  - Провожу консультации по тестированию на [**Хабр Карьера "Эксперт"**](https://career.habr.com/hi_neo_autumn)
