@@ -1,17 +1,56 @@
-![image](https://user-images.githubusercontent.com/87349480/221403468-302463a7-be30-4db3-95e6-5e92d9a7c06d.png)
+## Алиса Мордвинова | QA Engineer
 
-## I'm a QA Engineer.
-Information about me.
+Вы можете ознакомиться с моим резюме [по ссылке в PDF](https://goo.su/SV1e) или прочитать ниже.
 
-You can view my resume at [the link in PDF](https://goo.su/SV1e) or read it below.
+<!--Follow Me -->
+<a href="https://career.habr.com/hi_neo_autumn"><img src="https://cdn.tlgrm.app/channels/10/28/1028916447/avatar640.jpg" width="50" height="50" alt="Хабр Карьера"></a>
+<a href="https://vk.com/qa.urum_fox"><img src="https://avatars.mds.yandex.net/i?id=0ae6e01d31fc3cf0a1ed947aa90be60a29569b7c-5221012-images-thumbs&n=13" width="50" height="50" alt="VK"></a>
+<a href="https://t.me/QAutumnFox"><img src="https://st3.depositphotos.com/4141023/14403/v/450/depositphotos_144034637-stock-illustration-paper-airplane-icons-vector.jpg" width="50" height="50" alt="Telegram"></a>
+<a href="https://spb.hh.ru/resume/df51b0eaff084fd72d0039ed1f53746e486370"><img src="https://play-lh.googleusercontent.com/s6JiMSUktkTX0ejwpJ-DgqVb03dE00O975GGOoMmrlVL1aI8A1yOy7xh3dOSaxpuFWJH=w240-h480-rw" width="50" height="50" alt="hh.ru"></a>
+<a href="https://stepik.org/users/287500213"><img src="https://cdn-irec.r-99.com/sites/default/files/imagecache/300o/product-images/1803601/1cF6h6touT81MdpAN81Zg.jpg" width="50" height="50" alt="Stepik"></a>
+
+<!--About me-->
+## About me
+Являюсь специалистом в области тестирования и обеспечения качества. Владею знаниями и опытом. Работаю с тестовой документацией и требованиями к продукту.
+Я целеустремлена, пунктуальна и организованна. Мне действительно интересно обеспечение качества продукта и я развиваюсь в данном направлении. Не боюсь брать ответственность.
 
 <!--My experience-->
 ## My experience
-- [CleverPumpkin](https://career.habr.com/companies/cleverpumpkin) - Middle QA / Oct. 2022 — Nov. 2022
-- [PunicApp](https://career.habr.com/companies/punicapp) - Middle/Leading QA / July 2021 — Aug. 2022
-- [Friday`s Games](https://career.habr.com/companies/fridaysgames) - Junior QA / Apr. 2021 — June 2021
-- [ООО ОТР 2000](https://career.habr.com/companies/otr) - Junior QA / Mar. 2021 — Mar. 2021
-- [IQSoft](https://career.habr.com/companies/iqsoft) - Junior QA / Dec. 2020 — Feb. 2021
+### [CleverPumpkin](https://career.habr.com/companies/cleverpumpkin) - Middle QA
+**Oct. 2022 — Nov. 2022**
+- Тестирование мобильных приложений, создание и ведение тестовой документации, сбор логов
+- Функциональное, исследовательское, регрессионное тестирование, а также тестирование верстки, логики, и функционала продукта
+- **Инструменты:** Jira, Charles, TeamCity, Testrail, Figma, Android Studio
+
+### [PunicApp](https://career.habr.com/companies/punicapp) - Middle/Leading QA
+**July 2021 — Aug. 2022**
+- Тестирование мобильных приложений в комплексных проектах
+- Создание и ведение тестовой документации, включая заведение баг-репортов, создание ТЗ на разработку и руководство пользователя, создание задач на разработку программистам.
+- Функциональное, исследовательское, регрессионное тестирование, а также тестирование верстки, логики, и функционала продукта, начиная с методов, до первых сборок.
+- Работа с базой данных при помощи базовых запросов языка запросов SQL.
+- Разработка прототипа приложения (**UX**) для mobile и web на основе списка требований с последующим созданием ТЗ.
+- Проведение лекций по основам тестирования и ведение Базы знаний.
+- Курировала онбооардинг новых членов команды на протяжении ИС (3 месяца)
+- **Инструменты:** YouTrack, Charles, Swagger, Testrail, Postman, AppMetric, FireBase, DBeaver, GraphQL, Figma, Android Studio
+
+### [Friday`s Games](https://career.habr.com/companies/fridaysgames) - Junior QA
+**Apr. 2021 — June 2021**
+- Разработка и актуализация тест кейсов, заведение баг-репортов, подготовка тестовых стендов
+- Выполнение функционального, регрессионного и исследовательского тестирования на мобильных и десктоп-платформах
+- Исследовательское, регрессионное, функциональное тестирование, тестирование юнитов и систем
+- **Инструменты:** Jira, Confluence, Jenkins, внутреннее ПО компании
+
+### [ООО ОТР 2000](https://career.habr.com/companies/otr) - Junior QA
+**Mar. 2021 — Mar. 2021**
+- Разработка и актуализация тест кейсов, заведение баг-репортов, подготовка тестовых данных
+- Выполнение функционального, регрессионного тестирования
+
+### [IQSoft](https://career.habr.com/companies/iqsoft) - Junior QA
+**Dec. 2020 — Feb. 2021**
+- Разработка и актуализация тест-кейсов, заведение баг-репортов
+- Выполнение функционального, регрессионного и исследовательского тестирования
+- Постановка задач разработчикам по результатам тестирования
+- **Инструменты:** Jira, Confluence, GitLab
 
 <!--My education-->
 ## My education
@@ -19,10 +58,10 @@ You can view my resume at [the link in PDF](https://goo.su/SV1e) or read it belo
 Faculty of Electromechanics / Mechanical Engineer / Bachelor
 
 <!--Documentation testing-->
-## Documentation testing
+## Пример написания задачи
 - [Task example](https://github.com/QAurum/Documentation-testing/blob/main/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%BD%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8.png?raw=true)
 
-- [Example of a bug report](https://github.com/QAurum/Documentation-testing/blob/main/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B1%D0%B0%D0%B3-%D1%80%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D0%B0.png?raw=true)
+- [Пример составления баг-репорта](https://github.com/QAurum/Documentation-testing/blob/main/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B1%D0%B0%D0%B3-%D1%80%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D0%B0.png?raw=true)
 
 <!--Additional education-->
 ## Additional education
@@ -57,15 +96,6 @@ Faculty of Electromechanics / Mechanical Engineer / Bachelor
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=2674f2)
 ![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
 
-<!--Follow Me -->
-## Follow Me 
-<a href="https://career.habr.com/hi_neo_autumn"><img src="https://cdn.tlgrm.app/channels/10/28/1028916447/avatar640.jpg" width="50" 
-   height="50" alt="Хабр Карьера"></a>
-<a href="https://vk.com/qa.urum_fox"><img src="https://avatars.mds.yandex.net/i?id=0ae6e01d31fc3cf0a1ed947aa90be60a29569b7c-5221012-images-thumbs&n=13" width="50" 
-   height="50" alt="VK"></a>
-   <a href="https://t.me/QAutumnFox"><img src="https://st3.depositphotos.com/4141023/14403/v/450/depositphotos_144034637-stock-illustration-paper-airplane-icons-vector.jpg" width="50" 
-   height="50" alt="Telegram"></a>
-<a href="https://spb.hh.ru/resume/df51b0eaff084fd72d0039ed1f53746e486370"><img src="https://play-lh.googleusercontent.com/s6JiMSUktkTX0ejwpJ-DgqVb03dE00O975GGOoMmrlVL1aI8A1yOy7xh3dOSaxpuFWJH=w240-h480-rw" width="50" 
-   height="50" alt="hh.ru"></a>
-    <a href="https://stepik.org/users/287500213"><img src="https://cdn-irec.r-99.com/sites/default/files/imagecache/300o/product-images/1803601/1cF6h6touT81MdpAN81Zg.jpg" width="50" 
-   height="50" alt="Stepik"></a>
+<!--Add-->
+### Дополнительно
+ - Провожу консультации по тестированию на [**Хабр Карьера "Эксперт"**](https://career.habr.com/hi_neo_autumn)
