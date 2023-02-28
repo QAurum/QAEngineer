@@ -17,7 +17,7 @@
 <!--My experience-->
 ## My experience
 ### [CleverPumpkin](https://career.habr.com/companies/cleverpumpkin) - Middle QA
-**Oct. 2023 — Nov. 2023**
+**Oct. 2022 — Nov. 2022**
 - Тестирование мобильных приложений, создание и ведение тестовой документации, сбор логов
 - Функциональное, исследовательское, регрессионное тестирование, а также тестирование верстки, логики, и функционала продукта
 - **Инструменты:** Jira, Charles, TeamCity, Testrail, Figma, Android Studio
