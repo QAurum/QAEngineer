@@ -3,7 +3,7 @@
 Вы можете ознакомиться с моим резюме [по ссылке в PDF](https://goo.su/SV1e) или прочитать ниже.
 
 <!--Follow Me -->
-<a href="https://career.habr.com/hi_neo_autumn"><img src="https://site.com/wp-content/cache/thumbnails/thumb.jpg" width="50" height="50" alt="Хабр Карьера"></a>
+<a href="https://career.habr.com/hi_neo_autumn"><img src="https://user-images.githubusercontent.com/87349480/226189165-ffe00326-0bd3-4225-b744-62332944cc9a.png" width="50" height="50" alt="Хабр Карьера"></a>
 <a href="https://vk.com/qa.urum_fox"><img src="https://avatars.mds.yandex.net/i?id=0ae6e01d31fc3cf0a1ed947aa90be60a29569b7c-5221012-images-thumbs&n=13" width="50" height="50" alt="VK"></a>
 <a href="https://t.me/QAutumnFox"><img src="https://st3.depositphotos.com/4141023/14403/v/450/depositphotos_144034637-stock-illustration-paper-airplane-icons-vector.jpg" width="50" height="50" alt="Telegram"></a>
 <a href="https://spb.hh.ru/resume/df51b0eaff084fd72d0039ed1f53746e486370"><img src="https://play-lh.googleusercontent.com/s6JiMSUktkTX0ejwpJ-DgqVb03dE00O975GGOoMmrlVL1aI8A1yOy7xh3dOSaxpuFWJH=w240-h480-rw" width="50" height="50" alt="hh.ru"></a>
