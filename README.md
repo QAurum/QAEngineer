@@ -22,7 +22,7 @@
 <!--My experience-->
 ## My experience
 ### [PunicApp](https://career.habr.com/companies/punicapp)
-**Jan. 2023 — until now** - QA Engineer
+**Jan. 2023 — May 2023** - QA Engineer
 - Работа part-time
 - Занимаюсь тестированием мобильных приложений iOs, Android: модульное, системное, регрессионное, функциональное, e2e, исследовательское тестирование, полные прогоны.
 - Заведение баг-репортов, чек-листов для проверок, тестирование API.
