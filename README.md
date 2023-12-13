@@ -9,9 +9,10 @@
 <a href="https://stepik.org/users/287500213"><img src="https://cdn-irec.r-99.com/sites/default/files/imagecache/300o/product-images/1803601/1cF6h6touT81MdpAN81Zg.jpg" width="50" height="50" alt="Stepik"></a>
 <!-- <a href="https://spb.hh.ru/resume/df51b0eaff084fd72d0039ed1f53746e486370"><img src="https://play-lh.googleusercontent.com/s6JiMSUktkTX0ejwpJ-DgqVb03dE00O975GGOoMmrlVL1aI8A1yOy7xh3dOSaxpuFWJH=w240-h480-rw" width="50" height="50" alt="hh.ru"></a> -->
 
-<!--WEB-->
+<!--WEB
 ## My site-portfolio
-### [https://alicemor.ru/alicemor](https://alicemor.ru/alicemor)-->
+### [https://alicemor.ru/alicemor](https://alicemor.ru/alicemor)
+-->
 
 <!--About me-->
 ## About me
