@@ -23,6 +23,7 @@
 ## My works
 - Статья о [настройке Oculus Quest 2 для тестирования](https://vc.ru/dev/727937-kak-nastroit-meta-quest-2-dlya-testirovaniya-i-sbora-logov)
 - Статья о [роли Keychain в обеспечении качества  продукта](https://vc.ru/dev/759142-rol-keychain-v-obespechenii-kachestva-produkta)
+- Статья [о том, как успешно вливаться в новые проекты при работе на аутстафе](https://telegra.ph/QA-inzhenery-IT-Test-o-tom-kak-uspeshno-vlivatsya-v-novye-proekty-pri-rabote-na-autstafe-12-27)
 
 <!--My experience-->
 ## My experience
@@ -36,7 +37,7 @@
 - Функциональное, исследовательское, регрессионное тестирование, а также тестирование верстки, логики, и функционала продукта, начиная с методов.
 - Написание внутренних и внешних статей и инструкций
 - Тестировала такие приложения, как:
-DOQA, Levare (VR), Аврора
+DOQA, Аврора, AVO
 - **Инструменты:** Allure, YouTrack, Charles, Swagger, Testrail, Postman, AppMetric, FireBase, DBeaver, GraphQL, Figma, Android Studio
 
 ### [PunicApp](https://career.habr.com/companies/punicapp)
