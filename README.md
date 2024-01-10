@@ -1,6 +1,6 @@
 ## Алиса Мордвинова | QA Engineer
 
-Вы можете ознакомиться с моим резюме [по ссылке в PDF](https://goo.su/SV1e) или прочитать ниже.
+<!--Вы можете ознакомиться с моим резюме [по ссылке в PDF](https://goo.su/SV1e) или прочитать ниже.
 
 <!--Follow Me -->
 <a href="https://career.habr.com/hi_neo_autumn"><img src="https://user-images.githubusercontent.com/87349480/226189165-ffe00326-0bd3-4225-b744-62332944cc9a.png" width="50" height="50" alt="Хабр Карьера"></a>
